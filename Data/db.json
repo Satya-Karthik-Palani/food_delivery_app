@@ -1,0 +1,315 @@
+{
+    "food_items": [
+        {
+            "_id":1,
+            "category":"tiffins",
+            "name":"Dosa",
+            "mrp":40,
+            "price":30,
+            "rating":3.5,
+            "description":"A dosa is a thin pancake in South Indian cuisine made from a fermented batter of ground black gram (lentil) and rice. Dosas have now become popular elsewhere in South Asia. Dosas are served hot, often with chutney and sambar.",
+            "img": "/Images/tiffins/dosa.png"
+        },
+        {
+            "_id":2,
+            "category":"tiffins",
+            "name":"Idly",
+            "mrp":45,
+            "price":35,
+            "rating":4.5,
+            "description":"Idli or idly is a type of savoury rice cake, originating from the Indian subcontinent, popular as breakfast foods in Southern India and in Sri Lanka. The cakes are made by steaming a batter consisting of fermented black lentils (de-husked) and rice.",
+            "img": "/Images/tiffins/idly.png"
+        },
+        {
+            "_id":3,
+            "category":"tiffins",
+            "name":"Vada",
+            "mrp":30,
+            "price":25,
+            "rating":4.0,
+            "description":"Vadai (Vada) may be made from legumes, sago or potatoes. Commonly used legumes include pigeon pea, chickpea, black gram and green gram. Vegetables and other ingredients are added to improve taste and nutritive value. For legume-based vadas, the legumes (dal) are soaked with water, and then ground to a batter.",
+            "img": "/Images/tiffins/vada.jpeg"
+        },
+        {
+            "_id":4,
+            "category":"tiffins",
+            "name":"Mysore bonda",
+            "mrp":35,
+            "price":30,
+            "rating":4.5,
+            "description":"Mysore Bonda is a very popular South Indian snack recipe that needs only a few simple ingredients to get ready! This mouth-watering snack is prepared with rice flour, baking soda, onion, all-purpose flour, yoghurt, cumin and ginger.",
+            "img": "/Images/tiffins/mysore-bonda.png"
+        },
+        {
+            "_id":5,
+            "category":"tiffins",
+            "name":"Upma",
+            "mrp":50,
+            "price":40,
+            "rating":4.0,
+            "description":"Upma, uppumavu, or uppittu is a dish originating from the Indian subcontinent, most common in Kerala, Andhra Pradesh, Tamil Nadu, Telangana, Karnataka, Maharashtrian, and Sri Lankan Tamil breakfast, cooked as a thick porridge from dry-roasted semolina or coarse rice flour.",
+            "img": "/Images/tiffins/upma.png"
+        },
+        {
+            "_id":6,
+            "category":"tiffins",
+            "name":"Poori",
+            "mrp":40,
+            "price":20,
+            "rating":4.5,
+            "description":"Puri (sometimes spelled as poori) is a deep-fried bread made from unleavened whole-wheat flour that originated in the Indian subcontinent. It is eaten for breakfast or as a snack or light meal. It is usually served with a savory curry or bhaji, as in puri bhaji, but may also be eaten with sweet dishes.",
+            "img": "/Images/tiffins/poori.png"
+        },
+        {
+            "_id":7,
+            "category":"tiffins",
+            "name":"Uthappam",
+            "mrp":35,
+            "price":20,
+            "rating":4.5,
+            "description":"Uttapam is savory pancakes with crispy golden edges and a pillowy soft center topped with veggies. Traditionally served as breakfast in India, wholesome Uttapam also makes for a quick and satiating meal. Jump to: South Indian Staple Food.",
+            "img": "/Images/tiffins/utthapam.png"
+        },
+        {
+            "_id":8,
+            "category":"tiffins",
+            "name":"Pesarattu",
+            "mrp":25,
+            "price":20,
+            "rating":4.0,
+            "description":"Pesarattu, pesara attu, pesara dosa (mung bean dosa), or cheeldo is a crepe-like bread, originating in Andhra Pradesh, India, that is a variety of dosa.",
+            "img": "/Images/tiffins/pesarattu.png"
+        },
+        {
+            "_id":9,
+            "category":"tiffins",
+            "name":"Rava dosa",
+            "mrp":35,
+            "price":20,
+            "rating":4.5,
+            "description":"Rava dosa is a quick and popular variant of dosa from the South Indian cuisine. These are crispy, netted and thin crepes made with semolina (rava or cream of wheat), rice flour, all purpose flour and spices. These are incredibly easy to make and require no grinding or fermentation, unlike the traditional Dosa Recipe.",
+            "img": "/Images/tiffins/rava-dosa.png"
+        },
+        {
+            "_id":10,
+            "category":"tiffins",
+            "name":"Punugulu",
+            "mrp":20,
+            "price":15,
+            "rating":3.5,
+            "description":"Punugulu is a deep fried snack made with rice, urad dal and other spices. They are often served with peanut chutney, known as palli chutney, coconut chutney, verusanaga chutney or toordal chutney known as Kandhi Pachadi, or they can be served with capsicum peanut chutney.",
+            "img": "/Images/tiffins/punugulu.png"
+        },
+        {
+            "_id":11,
+            "category":"tiffins",
+            "name":"Chapathi",
+            "mrp":35,
+            "price":25,
+            "rating":4.5,
+            "description":"Chapatis are one of the most common forms of wheat bread, a staple food in the Indian subcontinent. The carbonized wheat grains discovered at the excavations at Mohenjo-daro are of a similar variety to an endemic species of wheat still to be found in India today.",
+            "img": "/Images/tiffins/chapathi.png"
+        },
+        {
+            "_id":12,
+            "category":"veg meals",
+            "name":"Veg Dum Biriyani",
+            "mrp":300,
+            "price":250,
+            "rating":3.5,
+            "description":"To make vegetable dum biryani flavorful and delicious use the best quality aged basmati rice, premium quality spices, masala powder and fresh herbs. You can use a store bought masala powder or can make some from my biryani masala powder recipe.",
+            "img": "/Images/veg_meals/veg-dum-biriyani.jpeg"
+        },
+        {
+            "_id":13,
+            "category":"veg meals",
+            "name":"Tomato Rice",
+            "mrp":250,
+            "price":180,
+            "rating":4.0,
+            "description":"Tomato Rice is a simple South Indian meal where rice is cooked with lots of tomatoes, fresh herbs, whole spices & ground spices. It tastes simply delicious, aromatic and makes for a quick meal option any time of the year. It is not a traditional dish so each Indian home and region has a different way of making it.",
+            "img": "/Images/veg_meals/tomato-rice.jpeg"
+        },
+        {
+            "_id":14,
+            "category":"veg meals",
+            "name":"Jeera Rice",
+            "mrp":250,
+            "price":180,
+            "rating":4.5,
+            "description":"Jeera rice is a flavored Indian rice dish made by cooking basmati rice with ghee, cumin & other fragrant spices.",
+            "img": "/Images/veg_meals/jeera-rice.jpeg"
+        },
+        {
+            "_id":15,
+            "category":"veg meals",
+            "name":"Khichdi",
+            "mrp":250,
+            "price":180,
+            "rating":5.0,
+            "description":"Khichdi is a dish in South Asian cuisine made of rice and lentils (dal) with numerous variations. Variations include bajra and mung dal khichri.",
+            "img": "/Images/veg_meals/kichidi.jpeg"
+        },
+        {
+            "_id":16,
+            "category":"veg meals",
+            "name":"Mushroom Biriyani",
+            "mrp":300,
+            "price":250,
+            "rating":3.5,
+            "description":"Vegetable biryani is an aromatic rice dish made with basmati rice, mix veggies, herbs & biryani spices. This easy veg biryani is a total crowd pleaser! You will love this for everything from busy night meals to holiday family dinners.",
+            "img": "/Images/veg_meals/mushroom-biriyani.jpeg"
+        },
+        {
+            "_id":17,
+            "category":"veg meals",
+            "name":"Veg Pulao",
+            "mrp":280,
+            "price":220,
+            "rating":4.5,
+            "description":"veg pulao is one of the most common rice dishes in India, the other being Veg Biryani. A pulao is a one pot dish of rice and vegetables or a protein cooked together with aromatics (onions, garlic, ginger etc), spices and herbs. There are many variations of making a pulao.",
+            "img": "/Images/veg_meals/veg-pulao.jpeg"
+        },
+        {
+            "_id":18,
+            "category":"veg meals",
+            "name":"Peas Pulao",
+            "mrp":250,
+            "price":180,
+            "rating":4.0,
+            "description":"Peas pulao is one of the most common rice dishes in India, the other being Veg Biryani. A pulao is a one pot dish of rice and vegetables or a protein cooked together with aromatics (onions, garlic, ginger etc), spices and herbs. There are many variations of making a pulao.",
+            "img": "/Images/veg_meals/peas-pulao.jpeg"
+        },
+        {
+            "_id":19,
+            "category":"veg meals",
+            "name":"Veg Fried Rice",
+            "mrp":300,
+            "price":220,
+            "rating":4.5,
+            "description":"Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as vegetables or seafood. It is often eaten by itself or as an accompaniment to another dish.",
+            "img": "/Images/veg_meals/veg-fried-rice.jpg"
+        },
+        {
+            "_id":20,
+            "category":"veg meals",
+            "name":"Paneer Biriyani",
+            "mrp":350,
+            "price":300,
+            "rating":3.5,
+            "description":"Paneer biryani is an Indian dish made with paneer, basmati rice, spices & herbs. This paneer biryani is unique, flavorful & amazingly delicious. Biryani is most commonly made with meat but this recipe uses paneer aka Indian cottage cheese.",
+            "img": "/Images/veg_meals/paneer-biriyani.jpeg"
+        },
+        {
+            "_id":21,
+            "category":"veg meals",
+            "name":"Curd Rice",
+            "mrp":150,
+            "price":100,
+            "rating":4.5,
+            "description":"Curd rice, also called yogurt rice, is a dish originating from India. The word curd in Indian English refers to unsweetened probiotic yogurt. It is most popular in the South Indian states of Tamil Nadu, Kerala , Karnataka, Telangana and Andhra Pradesh; and also in Maharashtra.",
+            "img": "/Images/veg_meals/curd-rice.jpeg"
+        },
+        {
+            "_id":22,
+            "category":"non-veg meals",
+            "name":"Chicken Fried Rice",
+            "mrp":350,
+            "price":330,
+            "rating":4.5,
+            "description":"Chicken Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish.",
+            "img": "/Images/non_veg_meals/chicken-fried-rice.webp"
+        },
+        {
+            "_id":23,
+            "category":"non-veg meals",
+            "name":"Hyderabadi Mutton Biriyani",
+            "mrp":450,
+            "price":400,
+            "rating":5.0,
+            "description":"Hyderabadi biryani, also known as Hyderabadi dum biryani, is a style of biryani from Hyderabad, India made with basmati rice and meat (mostly mutton). Originating in the kitchens of the Nizam of Hyderabad, it combines elements of Hyderabadi and Mughlai cuisines.",
+            "img": "/Images/non_veg_meals/h-m-biriyani.jpeg"
+        },
+        {
+            "_id":24,
+            "category":"non-veg meals",
+            "name":"Egg Biriyani",
+            "mrp":300,
+            "price":280,
+            "rating":5.0,
+            "description":"Made with aromatic basmati rice and boiled eggs cooked in a melange of spices, this flavourful egg biryani makes for the perfect main course. It can be served for brunch, lunch or dinner with chutney and raita. The highlight of this egg biryani recipe is that it is as nutritious as it is tasty.",
+            "img": "/Images/non_veg_meals/egg-biriyani.jpg"
+        },
+        {
+            "_id":25,
+            "category":"non-veg meals",
+            "name":"Khan Biriyani",
+            "mrp":380,
+            "price":350,
+            "rating":4.5,
+            "description":"The Khan biryani is yet another elaborate and exotic rice delicacy made of marinated spiced chicken and aromatic rice (basmati rice) cooked together that conjures up images of a grand feasts or royal celebration. This dish is heavenly with the subtle sublime blend of flavors, fragrances, textures and colors.",
+            "img": "/Images/non_veg_meals/khan-biriyani.jpeg"
+        },
+        {
+            "_id":26,
+            "category":"non-veg meals",
+            "name":"Mexicon Chicken Biriyani",
+            "mrp":300,
+            "price":280,
+            "rating":4.5,
+            "description":"Mexicon Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+            "img": "/Images/non_veg_meals/m-chicken-biriyani.jpg"
+        },
+        {
+            "_id":27,
+            "category":"non-veg meals",
+            "name":"Arabic Chicken Biriyani",
+            "mrp":350,
+            "price":330,
+            "rating":4.0,
+            "description":"Arabic Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+            "img": "/Images/non_veg_meals/a-chicken-biriyani.webp"
+        },
+        {
+            "_id":28,
+            "category":"non-veg meals",
+            "name":"Chicken Pukhi Biriyani",
+            "mrp":400,
+            "price":350,
+            "rating":4.5,
+            "description":"Chicken Pukhi Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+            "img": "/Images/non_veg_meals/c-p-biriyani.jpg"
+        },
+        {
+            "_id":29,
+            "category":"non-veg meals",
+            "name":"Fish Biriyani",
+            "mrp":380,
+            "price":350,
+            "rating":4.5,
+            "description":"Simply put, Fish biryani is a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot. It is combined in different ways with a variety of components to create a number of highly tasty and unique flavor combinations.",
+            "img": "/Images/non_veg_meals/fish-biriyani.jpg"
+        },
+        {
+            "_id":30,
+            "category":"non-veg meals",
+            "name":"Prawn Fried Rice",
+            "mrp":450,
+            "price":400,
+            "rating":4.0,
+            "description":"Prawn Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, prawns. It is often eaten by itself or as an accompaniment to another dish.",
+            "img": "/Images/non_veg_meals/prawn-fried-rice.jpg"
+        },
+        {
+            "_id":31,
+            "category":"non-veg meals",
+            "name":"Pot Chicken Biriyani",
+            "mrp":350,
+            "price":330,
+            "rating":4.5,
+            "description":"Pot Chicken Biryani is traditionally associated with the Mughlai cuisine . In chicken pot biryani version where all the ingredients are placed in one pot and cooked on the stove top.",
+            "img": "/Images/non_veg_meals/pot-chicken-biriyani.jpg"
+        }
+
+    ]
+}

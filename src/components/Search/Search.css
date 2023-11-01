@@ -1,0 +1,76 @@
+.searchpage-cart{
+    background-color: #7951A8;
+    padding: 0.3em;
+    border-radius:5px;
+    position: relative;
+    margin-left: 900px;
+    border: 3px solid black;
+    text-decoration: none;
+    color: black;
+}
+.searchpage-cart:hover{ 
+    outline-color: transparent;
+    outline-style:solid;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.search-btn{
+    background-color: #7951A8;
+    padding: 0.3em;
+    border-radius:5px;
+    position: relative;
+    border: 3px solid black;
+    text-decoration: none;
+    color: black;
+}
+.search-btn:hover{ 
+    outline-color: transparent;
+    outline-style:solid;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 4px rgb(97, 96, 96);
+}
+.search-input{
+    height:37px;
+    width:390px;
+}
+.search-container{
+    background-color: #E2D1F9;
+    display:flex;
+    padding: 10px;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+}
+.discount-part{
+    text-decoration: none;
+    position: absolute;
+    z-index: 1;
+    left: 1.8rem;
+    top:0.7rem;
+    margin-top:3px; 
+    color: black;
+    background:rgba(120,81,169,0.8);
+    padding: 0.7rem 1rem;
+    font-size: 2rem;
+}
+.requiredfooditemblock{ 
+    display: flex;
+    margin:0.5rem;
+    text-align: center;
+    padding: 0.8rem 1.8rem;
+    border-radius: .5rem;
+    position: absolute;
+    left: 250px;
+    background:white;  
+    width: 1070px;
+    border: 3px solid black;    
+}
+.search-bar{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.fooditemimagepart img{
+    height:250px;
+    width:250px;
+}
